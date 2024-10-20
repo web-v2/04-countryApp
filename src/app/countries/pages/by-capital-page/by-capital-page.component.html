@@ -1,0 +1,19 @@
+<h2>Por Capital</h2>
+<hr>
+
+<div class="row">
+  <div class="col">
+    <shared-search-box
+      placeholder="Este es un placeholder"
+      (onValue)="searchByCapital($event)"
+      ></shared-search-box>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <hr>
+    <li *ngFor="let country of countries">
+      {{ country.capital }} - {{ country.population}}
+    </li>
+  </div>
+</div>
