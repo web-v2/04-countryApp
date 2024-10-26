@@ -6,10 +6,6 @@ import { AboutPageComponent } from './shared/pages/about-page/about-page.compone
 import { ContactPageComponent } from './shared/pages/contact-page/contact-page.component';
 
 const routes: Routes = [
-/*    {
-    path: '',
-    redirectTo: 'countries'
-  }, */
   {
     path: 'about',
     component: AboutPageComponent
