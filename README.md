@@ -1,27 +1,85 @@
-# CountryApp
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="200" height="200" alt="Angular" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="200" height="200" alt="TypeScript" /></a>
+
+# CountryApp - Angular - SamirV2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
-## Development server
+<h2 align="center">
+:construction: Proyecto en v2.0 :construction:
+</h2>
+
+## Development server 🚀
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Build 🚀
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng build --configuration=production` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Build
+## Technologies
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+A list of technologies used within the project:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [Angular](https://angular.dev/): Version 18
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Version 5.0
 
-## Running end-to-end tests
+## Autores ✒️
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Samir Vergara V** - _Desarrollo_ - [web-v2](https://github.com/web-v2)
 
-## Further help
+### Desarrollado por
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+Samir Vergara V - Elaboración propia
+```
+
+### 📁 Acceso al proyecto ⌨️
+
+**Descarga o accede al código fuente del proyecto mediante el siguiente enlace:**
+
+URL:[https://github.com/web-v2/04-countryApp.git](https://github.com/web-v2/04-countryApp.git)
+
+### 🛠️ Abre y ejecuta el proyecto
+
+**Pasos para abrir y ejecutar el proyecto**
+
+1. Debes clonar el repositorio:
+
+```
+git clone https://github.com/web-v2/04-countryApp.git
+```
+
+2. Acceder al repositorio:
+
+```
+cd ../path/to/the/file
+```
+
+2. Instala dependencias:
+
+```
+npm install
+```
+
+3. Lanza la aplicacion:
+
+```
+ng serve -o
+```
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+- Comenta a otros sobre este proyecto 📢
+- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+- Da las gracias públicamente 🤓.
+
+---
+
+⌨️ con ❤️ por [web-v2](https://github.com/web-v2) 😊
